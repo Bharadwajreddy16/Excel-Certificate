@@ -1,8 +1,8 @@
-# Excel Basics for Data Analysis
+# Excel for Data Analysis
 
 ## Certificate
 
-This repository contains my certificate for **Excel Basics for Data Analysis**, an online course authorized by **IBM** and offered through **Coursera**.
+This repository contains my certificate for **Excel for Data Analysis**, an online course authorized by **IBM** and offered through **Coursera**.
 
 ### Course Details
 
@@ -12,7 +12,7 @@ This repository contains my certificate for **Excel Basics for Data Analysis**, 
 | **Authorized by** | IBM                            |
 | **Platform**      | Coursera                       |
 | **Completed on**  | August 14, 2026                |
-| **Level**         | Beginner                       |
+| **Level**         | Advanced                       |
 
 ### Skills Covered
 
